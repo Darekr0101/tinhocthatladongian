@@ -1,2 +1,3 @@
-hello project develop
-day la phan cua feature
+<?php
+  echo"tin học that la don gian"
+?>
